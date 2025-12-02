@@ -109,7 +109,7 @@ export const UNIFIED_RULES = [
 	{
 		name: 'Cloud Services',
 		outbound: t('outboundNames.Cloud Services'),
-		site_rules: ['aws', 'azure', 'digitalocean', 'heroku', 'dropbox'],
+		site_rules: ['aws', 'azure', 'digitalocean', 'heroku', 'dropbox', 'google-drive', 'pikpak'],
 		ip_rules: []
 	},
 	{
