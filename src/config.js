@@ -103,7 +103,7 @@ export const UNIFIED_RULES = [
 	{
 		name: 'Financial',
 		outbound: t('outboundNames.Financial'),
-		site_rules: ['paypal', 'visa', 'mastercard','stripe','wise''category-cryptocurrency'],
+		site_rules: ['paypal', 'visa', 'mastercard','stripe','wise', 'category-cryptocurrency'],
 		ip_rules: []
 	},
 	{
